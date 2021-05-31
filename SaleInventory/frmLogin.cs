@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SaleInventory.Helpers;
+using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -11,6 +12,9 @@ namespace SaleInventory
         public frmLogin()
         {
             InitializeComponent();
+
+            txtPwd.RegisterEnglishInputWith(txtUser);
+
         }
         private int count = 0;
         private ErrorProvider error = new ErrorProvider();

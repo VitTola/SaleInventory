@@ -263,6 +263,8 @@
     <Compile Include="frmSupplier.Designer.cs">
       <DependentUpon>frmSupplier.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\ControlExt.cs" />
+    <Compile Include="Helpers\UI.cs" />
     <Compile Include="Operation.cs" />
     <Compile Include="Components\panelBar.cs">
       <SubType>UserControl</SubType>

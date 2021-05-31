@@ -104,7 +104,19 @@ namespace SaleInventory
             }
         }
 
-        
+        private void picExit_Click_1(object sender, EventArgs e)
+        {
+
+
+
+
+        }
+
+        private void picMini_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void PicExit_Click(object sender, EventArgs e)
         {
             var parent = this.ParentForm;

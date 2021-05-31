@@ -59,5 +59,10 @@ namespace SaleInventory
                     btnCus.Enabled = btnSale.Enabled = btnSaleRe.Enabled = false;
             }
         }
+
+        private void btnEmployee_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

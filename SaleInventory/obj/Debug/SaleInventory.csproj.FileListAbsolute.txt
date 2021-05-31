@@ -1056,3 +1056,4 @@ D:\My Projects\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\km\SaleInvent
 D:\My Projects\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
 D:\My Projects\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.exe
 D:\My Projects\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\My Projects\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache

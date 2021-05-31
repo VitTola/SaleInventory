@@ -47,11 +47,11 @@
             this.btnLogOut = new System.Windows.Forms.Button();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.btnEmployee = new System.Windows.Forms.Button();
-            this.btnCate = new System.Windows.Forms.Button();
             this.btnCus = new System.Windows.Forms.Button();
             this.btnSup = new System.Windows.Forms.Button();
             this.btnPro = new System.Windows.Forms.Button();
             this.btnSale = new System.Windows.Forms.Button();
+            this.btnCate = new System.Windows.Forms.Button();
             this.btnSaleRe = new System.Windows.Forms.Button();
             this.btnImp = new System.Windows.Forms.Button();
             this.btnImpRe = new System.Windows.Forms.Button();
@@ -313,27 +313,7 @@
             this.btnEmployee.Text = "ព័ត៏មានបុគ្គលិក";
             this.btnEmployee.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnEmployee.UseVisualStyleBackColor = false;
-            // 
-            // btnCate
-            // 
-            this.btnCate.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.btnCate.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnCate.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnCate.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-            this.btnCate.FlatAppearance.BorderSize = 4;
-            this.btnCate.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
-            this.btnCate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCate.Font = new System.Drawing.Font("Khmer Muol", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCate.Image = global::SaleInventory.Properties.Resources.category;
-            this.btnCate.Location = new System.Drawing.Point(1160, 131);
-            this.btnCate.Name = "btnCate";
-            this.btnCate.Padding = new System.Windows.Forms.Padding(0, 0, 0, 20);
-            this.tableLayoutPanel1.SetRowSpan(this.btnCate, 3);
-            this.btnCate.Size = new System.Drawing.Size(203, 243);
-            this.btnCate.TabIndex = 12;
-            this.btnCate.Text = "ព័ត៏មានអំពីប្រភេទទំនិញ";
-            this.btnCate.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnCate.UseVisualStyleBackColor = false;
+            this.btnEmployee.Click += new System.EventHandler(this.btnEmployee_Click);
             // 
             // btnCus
             // 
@@ -423,6 +403,27 @@
             this.btnSale.Text = "លក់ទំនិញ";
             this.btnSale.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnSale.UseVisualStyleBackColor = false;
+            // 
+            // btnCate
+            // 
+            this.btnCate.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btnCate.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCate.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btnCate.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btnCate.FlatAppearance.BorderSize = 4;
+            this.btnCate.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.btnCate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCate.Font = new System.Drawing.Font("Khmer Muol", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCate.Image = global::SaleInventory.Properties.Resources.category;
+            this.btnCate.Location = new System.Drawing.Point(1160, 131);
+            this.btnCate.Name = "btnCate";
+            this.btnCate.Padding = new System.Windows.Forms.Padding(0, 0, 0, 20);
+            this.tableLayoutPanel1.SetRowSpan(this.btnCate, 3);
+            this.btnCate.Size = new System.Drawing.Size(203, 243);
+            this.btnCate.TabIndex = 12;
+            this.btnCate.Text = "ព័ត៏មានអំពីប្រភេទទំនិញ";
+            this.btnCate.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnCate.UseVisualStyleBackColor = false;
             // 
             // btnSaleRe
             // 

@@ -57,14 +57,17 @@
             // 
             // picMini
             // 
+            this.picMini.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.picMini.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(97)))), ((int)(((byte)(140)))), ((int)(((byte)(48)))));
             this.picMini.Image = global::SaleInventory.Properties.Resources.minimize;
-            this.picMini.Location = new System.Drawing.Point(315, 3);
+            this.picMini.Location = new System.Drawing.Point(326, 2);
             this.picMini.Name = "picMini";
-            this.picMini.Size = new System.Drawing.Size(18, 18);
+            this.picMini.Size = new System.Drawing.Size(16, 16);
             this.picMini.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picMini.TabIndex = 15;
             this.picMini.TabStop = false;
+            this.picMini.Click += new System.EventHandler(this.picMini_Click);
             // 
             // pictureBox1
             // 
@@ -79,14 +82,17 @@
             // 
             // picExit
             // 
+            this.picExit.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.picExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(97)))), ((int)(((byte)(140)))), ((int)(((byte)(48)))));
             this.picExit.Image = global::SaleInventory.Properties.Resources.exit1;
-            this.picExit.Location = new System.Drawing.Point(340, 3);
+            this.picExit.Location = new System.Drawing.Point(347, 2);
             this.picExit.Name = "picExit";
-            this.picExit.Size = new System.Drawing.Size(18, 18);
+            this.picExit.Size = new System.Drawing.Size(16, 16);
             this.picExit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picExit.TabIndex = 14;
             this.picExit.TabStop = false;
+            this.picExit.Click += new System.EventHandler(this.picExit_Click_1);
             // 
             // pictureBox2
             // 
