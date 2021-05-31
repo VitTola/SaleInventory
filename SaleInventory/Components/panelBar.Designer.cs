@@ -43,7 +43,7 @@
             // 
             // panelBorderLine1
             // 
-            this.panelBorderLine1.BackColor = System.Drawing.Color.Gray;
+            this.panelBorderLine1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.panelBorderLine1.Controls.Add(this.picMini);
             this.panelBorderLine1.Controls.Add(this.pictureBox1);
             this.panelBorderLine1.Controls.Add(this.picExit);
@@ -52,16 +52,16 @@
             this.panelBorderLine1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelBorderLine1.Location = new System.Drawing.Point(0, 0);
             this.panelBorderLine1.Name = "panelBorderLine1";
-            this.panelBorderLine1.Size = new System.Drawing.Size(365, 27);
+            this.panelBorderLine1.Size = new System.Drawing.Size(365, 22);
             this.panelBorderLine1.TabIndex = 17;
             // 
             // picMini
             // 
-            this.picMini.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.picMini.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(97)))), ((int)(((byte)(140)))), ((int)(((byte)(48)))));
             this.picMini.Image = global::SaleInventory.Properties.Resources.minimize;
-            this.picMini.Location = new System.Drawing.Point(314, 2);
+            this.picMini.Location = new System.Drawing.Point(315, 3);
             this.picMini.Name = "picMini";
-            this.picMini.Size = new System.Drawing.Size(21, 22);
+            this.picMini.Size = new System.Drawing.Size(18, 18);
             this.picMini.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picMini.TabIndex = 15;
             this.picMini.TabStop = false;
@@ -79,11 +79,11 @@
             // 
             // picExit
             // 
-            this.picExit.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.picExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(97)))), ((int)(((byte)(140)))), ((int)(((byte)(48)))));
             this.picExit.Image = global::SaleInventory.Properties.Resources.exit1;
-            this.picExit.Location = new System.Drawing.Point(339, 2);
+            this.picExit.Location = new System.Drawing.Point(340, 3);
             this.picExit.Name = "picExit";
-            this.picExit.Size = new System.Drawing.Size(21, 22);
+            this.picExit.Size = new System.Drawing.Size(18, 18);
             this.picExit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picExit.TabIndex = 14;
             this.picExit.TabStop = false;
@@ -101,12 +101,13 @@
             // 
             // lblTitle
             // 
-            this.lblTitle.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.lblTitle.Font = new System.Drawing.Font("Khmer OS Bokor", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(97)))), ((int)(((byte)(140)))), ((int)(((byte)(48)))));
+            this.lblTitle.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lblTitle.Font = new System.Drawing.Font("Kh Siemreap", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.Black;
             this.lblTitle.Location = new System.Drawing.Point(0, 0);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(365, 27);
+            this.lblTitle.Size = new System.Drawing.Size(365, 22);
             this.lblTitle.TabIndex = 12;
             this.lblTitle.Text = "អាមួយភោគបោះដុំនំគ្រប់មុខ";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -118,7 +119,7 @@
             this.BackColor = System.Drawing.Color.Gray;
             this.Controls.Add(this.panelBorderLine1);
             this.Name = "panelBar";
-            this.Size = new System.Drawing.Size(365, 27);
+            this.Size = new System.Drawing.Size(365, 22);
             this.panelBorderLine1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picMini)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
