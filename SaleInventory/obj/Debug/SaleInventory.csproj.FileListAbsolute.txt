@@ -1,0 +1,942 @@
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe.config
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\SaleInventory.pdb
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.exe
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.pdb
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\vitto\source\repos\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe.config
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Data.v19.1.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Data.v19.1.xml
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.exe
+D:\C#\MyOwnC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe.config
+D:\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe
+D:\SaleInventory\SaleInventory\bin\Debug\SaleInventory.pdb
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Data.v19.1.dll
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\EnvDTE.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\stdole.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\SaleInventory\SaleInventory\bin\Debug\EnvDTE80.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\SaleInventory\SaleInventory\bin\Debug\VSLangProj.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\VSLangProj80.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.Build.Framework.dll
+D:\SaleInventory\SaleInventory\bin\Debug\VSLangProj2.dll
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Data.v19.1.xml
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\SaleInventory\SaleInventory\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.exe.config
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+D:\SaleInventory\SaleInventory\obj\Debug\RdlCompile.cache
+D:\SaleInventory\SaleInventory\obj\Debug\RdlCompile.compiled
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.exe
+D:\SaleInventory\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe.config
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.pdb
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\EnvDTE.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\stdole.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\RdlCompile.cache
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\RdlCompile.compiled
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.exe
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\RdlCompile.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\RdlCompile.compiled
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe.config
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.exe
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\SaleInventory.pdb
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\EnvDTE.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\stdole.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.exe
+D:\MY Pragramming\C#\MyProjectC#\SaleInventory\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SaleInventory.exe.config
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SaleInventory.exe
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SaleInventory.pdb
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\EnvDTE.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\stdole.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\RdlCompile.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\RdlCompile.compiled
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.exe
+D:\MY Pragramming\C#\MyProjectC#\SaleInventories all versions\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.pdb
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SaleInventory.exe.config
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SaleInventory.exe
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\SaleInventory.pdb
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\km\SaleInventory.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\EnvDTE.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\stdole.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.UserControl1.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.frmLogin.km.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\RdlCompile.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\RdlCompile.compiled
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\km\SaleInventory.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.exe
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro\SaleInventory\obj\Debug\SaleInventory.pdb
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SaleInventory.exe.config
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SaleInventory.exe
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\SaleInventory.pdb
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\km\SaleInventory.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\System.Data.Common.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\EnvDTE.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\stdole.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmMain1.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.panelBar.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.frmLogin.km.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\RdlCompile.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\RdlCompile.compiled
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\km\SaleInventory.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.exe
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V4.0\SaleInventory\obj\Debug\SaleInventory.pdb
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SaleInventory.exe.config
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SaleInventory.exe
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SaleInventory.pdb
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\km\SaleInventory.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\System.Data.Common.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\EnvDTE.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\stdole.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmMain1.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.panelBar.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmLogin.km.resources
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\RdlCompile.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\RdlCompile.compiled
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\km\SaleInventory.resources.dll
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.exe
+C:\Users\vitto\Desktop\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SaleInventory.exe.config
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SaleInventory.exe
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\SaleInventory.pdb
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\km\SaleInventory.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Newtonsoft.Json.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\System.Data.Common.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\System.Data.SqlClient.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\EnvDTE.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\stdole.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\Microsoft.MSXML.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\System.Data.SqlClient.xml
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csprojAssemblyReference.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmEmpList.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmInvoice.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmLogin.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmMain1.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmRptEmp.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmRptSale.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmRtpImport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmSaleReport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmSale.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmProduct.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmImportReport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmImport.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmCustomer.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmEmployee.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmCreateAccount.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmCategory.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmMain.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmSupplier.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.panelBar.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.Properties.Resources.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.frmLogin.km.resources
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.GenerateResource.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.CoreCompileInputs.cache
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\km\SaleInventory.resources.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.csproj.CopyComplete
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.exe
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\obj\Debug\SaleInventory.pdb
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.Shared.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MY Pragramming\C#\MyProjectC#\SaleInventoryWtihMicro V5.0\SaleInventory\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
